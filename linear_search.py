@@ -10,4 +10,4 @@ if result !=-1:
     print(f"The element {target} and found at index {result}")
 
 else:
-    print("bye")
+    print("bye")w
