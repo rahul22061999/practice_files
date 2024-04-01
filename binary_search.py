@@ -15,7 +15,7 @@ def binary_search(arr, result):
 
 arr = [1,2,3,4,2,1,4,35,45,3]
 arr_sorted = sorted(arr)
-target = 2 
+target = 45
 result = binary_search(arr_sorted,target)
 if result != -1:
     print(arr_sorted)

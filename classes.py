@@ -28,4 +28,4 @@ course = Course("Math",2)
 course.add_student(s1)
 course.add_student(s2)
 
-print(course.students[0].name)
+print(course.students[1].name)
